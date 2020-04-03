@@ -1,4 +1,5 @@
 # Instagram-BruteForce
+# Old Might Work But It Ain't The Best
 
 # How To Use
 python instagram.py  [Username]  [wordlist]
